@@ -8,5 +8,7 @@ Just for my own reference, I have hosted it on github (and for memories too 😁
 I have no plan to make this repo public (as of now).
 ## Images of the hardware.
 Just in case if I lost the hardware, I want to have it as a memory.
-![Image1](https://imgur.com/a/rfhTck2)
-![Image1](https://imgur.com/a/rfhTck2)
+
+Image 1 - https://imgur.com/a/0b0QeBa
+
+Image 2 - https://imgur.com/a/rfhTck2
