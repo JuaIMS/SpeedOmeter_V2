@@ -14,6 +14,6 @@ Just for my own reference, I have hosted it on github (and for memories too 😁
 I have no plan to make this repo public ~~(as of now)~~.
 
 Libraries used :-
-  ```U8G2LIB```
+  [U8G2LIB](https://github.com/olikraus/u8g2)
 
 **Edit - As of 5 feb 24, this repo is public.**
