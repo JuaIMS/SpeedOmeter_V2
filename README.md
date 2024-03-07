@@ -1,7 +1,5 @@
-# SpeedOmeter V2
-## Developer - JuaIMS [@github](https://github.com/JuaIMS)
+# Arduino_SpeedOmeter
 
-As the title says.
 This project is all about a speedometer(for my bicycle). 
 
 The project is coded in Arduino IDE, Nothing fancy. The code is made very crudely.
