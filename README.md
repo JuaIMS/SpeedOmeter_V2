@@ -9,7 +9,7 @@ project that suited my purpose, hence I wrote it myself. The code isn't very com
 it should be understandable without comments anyway.
 
 Just for my own reference, I have hosted it on github (and for memories too 😁).
-I have no plan to make this repo public ~~(as of now)~~.
+~~I have no plan to make this repo public (as of now)~~.
 
 Libraries used :-
   [U8G2LIB](https://github.com/olikraus/u8g2)
